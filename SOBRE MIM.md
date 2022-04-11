@@ -7,6 +7,7 @@
 
 Apesar de ainda não ter tido experiências profissionais como Desenvolvedor, minha maior meta agora é me capacitar para uma vaga de 
 Full Stack. Por hora, pretendo armazenar todos os projetos que farei para exercitar meu conhecimento em JS, HTML5 e CSS.
+https://github.com/vitorgatto/exercicios.git
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
