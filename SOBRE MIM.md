@@ -1,14 +1,15 @@
-Olá, me chamo Joao Vitor Piccirillo Gatto. Estudo programação ha pouco tempo, mas ja tenho metas a curto, medio e longo prazo na área. 
-Gosto de tecnologia, e vejo o mundo daqui há 10 anos necessitando cada vez mais da tecnologia, e além de consumí-la, tenho 
-o desejo de criá-la.
-Tive diversas experiências profissionais em áreas bem distintas, mas a tecnologia sempre me chamou atenção. 
-Gosto de criar, conhecer e inovar. Tenho como meu maior motivador a determinação e a curiosidade. Simplesmente não consigo
-ver um problema que logo penso em formas de resolvê-lo, posso não acertar de primeira, mas continuo tentando até encontrar
-a melhor forma, e quando me sinto encurralado, sei que é o momento de pedir ajuda. Gosto de aprender com os mais experientes, 
-embora eu possa encontrar dificuldades de aprendizado, não discarto a minha capacidade pessoal de procurar soluções para 
-os problemas por conta própria. Tenho noção de prazos e não costumo fazer as coisas "em cima da hora".
+<h1 align="center">Olá! Me chamo João Vitor Piccirillo Gatto</h1>
+<h3 align="center">Meta🎯: Desenvolvedor Full Stack</h3>
 
-Agradeço sua atenção até aqui. Gostaria de deixar meus contatos:
+- 📫 E-mail: **joaogatto.dev@outlook.com**
 
-GITHUB - www.github.com/vitorgatto
-WHATS APP PESSOAL - (11).98367-3028
+- ⚡ Sobre mim: **Determinado, aprendiz, Ouvinte, Curioso, Inventivo, um pouco Impaciente.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jo%c3%a3o-vitor-piccirillo-gatto-50720b1aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jo%c3%a3o-vitor-piccirillo-gatto-50720b1aa/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/vitorgatto30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vitorgatto30" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
