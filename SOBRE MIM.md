@@ -5,8 +5,8 @@
 
 - ⚡ Sobre mim: **Determinado, aprendiz, Ouvinte, Curioso, Inventivo, um pouco Impaciente.**
 
-- Apesar de ainda não ter tido experiência profissional como Desenvolvedor, tenho vontade de aprender e me capacitar para uma vaga de trabalho. Aqui neste perfil,
-pretendo deixar todos os projetos que vou desenvolvendo ao decorrer dos meus estudos.
+Apesar de ainda não ter tido experiências profissionais como Desenvolvedor, minha maior meta agora é me capacitar para uma vaga de 
+Full Stack. Por hora, pretendo armazenar todos os projetos que farei para exercitar meu conhecimento em JS, HTML5 e CSS.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
