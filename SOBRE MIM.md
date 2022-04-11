@@ -5,6 +5,9 @@
 
 - ⚡ Sobre mim: **Determinado, aprendiz, Ouvinte, Curioso, Inventivo, um pouco Impaciente.**
 
+- Apesar de ainda não ter tido experiência profissional como Desenvolvedor, tenho vontade de aprender e me capacitar para uma vaga de trabalho. Aqui neste perfil,
+pretendo deixar todos os projetos que vou desenvolvendo ao decorrer dos meus estudos.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jo%c3%a3o-vitor-piccirillo-gatto-50720b1aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jo%c3%a3o-vitor-piccirillo-gatto-50720b1aa/" height="30" width="40" /></a>
